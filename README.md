@@ -1,2 +1,2 @@
 # My-Essay-Plants-Identifier
-# Skripsi-Identifikasi-Tanaman-Berbasis
+# Skripsi-Identifikasi-Tanaman-Berbasis-Android
