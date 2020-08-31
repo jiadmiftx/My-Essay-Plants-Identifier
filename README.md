@@ -1,2 +1,2 @@
 # My-Essay-Plants-Identifier
-# My-Essay-Plants-Identifier
+# Skripsi-Identifikasi-Tanaman-Berbasis
